@@ -1,2 +1,0 @@
-# ToDoList
-Created with CodeSandbox
